@@ -1,0 +1,10 @@
+.DS_Store
+**/.settings/
+**/.classpath
+**/bin
+**/target
+**/.project
+**/META-INF
+addresses.dat
+!addresses.data.complete
+*.log
